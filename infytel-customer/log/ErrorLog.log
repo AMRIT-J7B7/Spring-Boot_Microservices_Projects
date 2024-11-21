@@ -1,0 +1,30 @@
+29-Dec-2021 22:32:27 ERROR - Cannot invoke "com.infosys.infytel.customer.dto.CustomerDTO.getCurrentPlan()" because "custDTO" is null
+29-Dec-2021 22:32:29 ERROR - Cannot invoke "com.infosys.infytel.customer.dto.CustomerDTO.getCurrentPlan()" because "custDTO" is null
+29-Dec-2021 22:32:37 ERROR - Cannot invoke "com.infosys.infytel.customer.dto.CustomerDTO.getCurrentPlan()" because "custDTO" is null
+29-Dec-2021 22:37:26 ERROR - Cannot invoke "com.infosys.infytel.customer.dto.CustomerDTO.getCurrentPlan()" because "custDTO" is null
+29-Dec-2021 22:38:35 ERROR - Cannot invoke "com.infosys.infytel.customer.dto.CustomerDTO.getCurrentPlan()" because "custDTO" is null
+29-Dec-2021 22:38:37 ERROR - Cannot invoke "com.infosys.infytel.customer.dto.CustomerDTO.getCurrentPlan()" because "custDTO" is null
+29-Dec-2021 22:38:38 ERROR - Cannot invoke "com.infosys.infytel.customer.dto.CustomerDTO.getCurrentPlan()" because "custDTO" is null
+29-Dec-2021 22:38:40 ERROR - Cannot invoke "com.infosys.infytel.customer.dto.CustomerDTO.getCurrentPlan()" because "custDTO" is null
+21-Nov-2024 19:44:44 ERROR - 500 : "{"timestamp":"2024-11-21T14:14:44.964+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 19:44:44 ERROR - 500 : "{"timestamp":"2024-11-21T14:14:44.964+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 19:44:50 ERROR - 500 : "{"timestamp":"2024-11-21T14:14:50.613+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 19:44:50 ERROR - 500 : "{"timestamp":"2024-11-21T14:14:50.613+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 19:46:52 ERROR - 500 : "{"timestamp":"2024-11-21T14:16:52.970+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 19:46:52 ERROR - 500 : "{"timestamp":"2024-11-21T14:16:52.970+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 19:47:32 ERROR - 500 : "{"timestamp":"2024-11-21T14:17:32.075+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 19:47:32 ERROR - 500 : "{"timestamp":"2024-11-21T14:17:32.075+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:24:10 ERROR - 500 : "{"timestamp":"2024-11-21T16:54:10.630+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:24:10 ERROR - 500 : "{"timestamp":"2024-11-21T16:54:10.630+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:24:24 ERROR - 500 : "{"timestamp":"2024-11-21T16:54:24.549+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:24:24 ERROR - 500 : "{"timestamp":"2024-11-21T16:54:24.549+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:25:00 ERROR - 500 : "{"timestamp":"2024-11-21T16:55:00.288+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:25:00 ERROR - 500 : "{"timestamp":"2024-11-21T16:55:00.288+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:25:23 ERROR - 500 : "{"timestamp":"2024-11-21T16:55:23.597+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:25:23 ERROR - 500 : "{"timestamp":"2024-11-21T16:55:23.597+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:26:20 ERROR - 500 : "{"timestamp":"2024-11-21T16:56:20.170+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:26:20 ERROR - 500 : "{"timestamp":"2024-11-21T16:56:20.170+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:27:42 ERROR - 500 : "{"timestamp":"2024-11-21T16:57:42.591+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:27:42 ERROR - 500 : "{"timestamp":"2024-11-21T16:57:42.591+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:27:57 ERROR - 500 : "{"timestamp":"2024-11-21T16:57:57.049+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
+21-Nov-2024 22:27:57 ERROR - 500 : "{"timestamp":"2024-11-21T16:57:57.049+00:00","status":500,"error":"Internal Server Error","path":"/customers/9009009002/friends"}"
